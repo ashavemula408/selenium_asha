@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29271" started-at="2021-12-12T19:35:30 PST" finished-at="2021-12-12T19:35:59 PST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29271" started-at="2021-12-12T19:35:30 PST" finished-at="2021-12-12T19:35:59 PST">
+      <class name="pom_testcases.TC001_IRCTCHolidays">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:pom_testcases.TC001_IRCTCHolidays@7b69c6ba]" name="beforeMethod" is-config="true" duration-ms="18533" started-at="2021-12-12T19:35:30 PST" finished-at="2021-12-12T19:35:49 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tourPackages()[pri:0, instance:pom_testcases.TC001_IRCTCHolidays@7b69c6ba]" name="tourPackages" duration-ms="10702" started-at="2021-12-12T19:35:49 PST" finished-at="2021-12-12T19:35:59 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tourPackages -->
+      </class> <!-- pom_testcases.TC001_IRCTCHolidays -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
